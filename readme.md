@@ -20,6 +20,8 @@ You can:
 - DM the bot with a token address
 - Add it to a group and tag it with a contract address
 
+https://github.com/user-attachments/assets/78518296-a95c-4e92-8ce1-ce5ffb5ed420
+
 ## Setup
 
 1. clone the repo and install the dependencies
