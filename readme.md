@@ -20,7 +20,7 @@ You can:
 - DM the bot with a token address
 - Add it to a group and tag it with a contract address
 
-https://github.com/user-attachments/assets/78518296-a95c-4e92-8ce1-ce5ffb5ed420
+https://github.com/user-attachments/assets/a70d4658-1f84-4a54-96b3-1d52e2fd29b0
 
 ## Setup
 
